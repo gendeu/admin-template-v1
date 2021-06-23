@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 23 Jun 2021 18:02:42 at https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard -O1 "C:\Users\KLP-DEO\Desktop\admin-template-v1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:02:58	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 44 links scanned, 42 files written (3204529 bytes overall) [2004914 bytes received at 95472 bytes/sec], 1744574 bytes transferred using HTTP compression in 36 files, ratio 28%, 6.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
